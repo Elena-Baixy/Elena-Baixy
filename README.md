@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#LinkedIn: www.linkedin.com/in/elenabai
+# LinkedIn: www.linkedin.com/in/elenabai
