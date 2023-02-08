@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ### LinkedIn: www.linkedin.com/in/elenabai
+### Personal Website: elena-baixy.github.io
